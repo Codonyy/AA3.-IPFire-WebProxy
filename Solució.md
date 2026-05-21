@@ -23,15 +23,20 @@
 ### – Instal·la les llistes negres. Blocar els dominis elnacional.cat i tecnocampus.cat.
 
 ![Configuració dels discs a VirtualBox](img/10.png)
+![Configuració dels discs a VirtualBox](img/20.png)
+![Configuració dels discs a VirtualBox](img/21.png)
 
 ### – Blocar categories: bank i radio. Proveu-lo amb la pàgina de ing.es i ah.fm
 
 ![Configuració dels discs a VirtualBox](img/8.png)
+![Configuració dels discs a VirtualBox](img/18.png)
+![Configuració dels discs a VirtualBox](img/19.png)
 
 ### – Blocar tota pàgina que contingui el terme anime, amb l’excepció del domini animenewsnetwork.com.
 
 ![Configuració dels discs a VirtualBox](img/12.png)
-![Configuració dels discs a VirtualBox](img/13.png)
+![Configuració dels discs a VirtualBox](img/11.png)
+![Configuració dels discs a VirtualBox](img/22.png)
 
 ### – Prova bloqueig per hores.
 
